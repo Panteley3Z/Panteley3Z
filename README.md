@@ -1,8 +1,8 @@
-<style>
+## Hi there 👋
+<style type="text/css">
   .header-3z {background: lightblue}
 </style>
 
-## Hi there 👋
 <h1 class="header-3z">I am a QA Engineer /<br>Manual tester 🪲🔨🐥</h1>
 
 <h3>... and I want to become an adult 🥸 tester who can do in automated testing 🥋</h3>
