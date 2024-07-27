@@ -4,6 +4,15 @@
 <h3>... and I want to become an adult 🥸 tester who can do in automated testing 🥋</h3>
 
 <p> - I’m currently learning ... and learning... and learning... </p>
+
+<ul>and learning...
+  <li>and learning...</li>
+  <li>
+    <ul>
+      <li>and learning...</li>
+    </ul>
+  </li>
+</ul>
 <!--
 **Panteley3Z/Panteley3Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
