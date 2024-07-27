@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>I am a QA Engineer / Manual tester</h1>
+<h1>I am a QA Engineer /<br>Manual tester 🪲🔨🐥</h1>
 
 <h3>... and I want to become an adult 🥸 tester who can do in automated testing 🥋</h3>
 
