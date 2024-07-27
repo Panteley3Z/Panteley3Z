@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 background="lightblue">I am a QA Engineer /<br>Manual tester 🪲🔨🐥</h1>
 
-<h3>... and I want to become an adult 🥸 tester who can do in automated testing 🥋</h3>
+<h3>... and I want to become a grown 🥸 tester who can do in automated testing 🥋</h3>
 
 <p> - I’m currently learning ... and learning... and learning... </p>
 
