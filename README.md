@@ -19,13 +19,13 @@
   </li>
 </ul>
 
-<table style="width:100%">
+<table>
   <thead>
     <tr>
-      <th colspan="4">My skills</th>
+      <th colspan="4" style="width:100%">My skills</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="width:100%">
     <tr>
       <th>HTML</th>
       <td></td>
