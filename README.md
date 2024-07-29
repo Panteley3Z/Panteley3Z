@@ -19,7 +19,7 @@
   </li>
 </ul>
 
-<table width="100%">
+<table style="width:100%">
   <thead>
     <tr>
       <th colspan="4">My skills</th>
