@@ -3,19 +3,37 @@
 
 <h3>... and I want to become a grown 🥸 tester who can do in automated testing 🥋</h3>
 
-<ul>I’m currently learning...
+<p>I’m currently learning...</p>
+
+<ul>
   <li>and learning...</li>
   <li>
     <ul>
       <li>and learning...</li>
       <li>
-      <ul>
-        <li>and learning...</li>
-      </ul>
-  </li>
+        <ul>
+          <li>and learning...</li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>My skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>HTML</th>
+      <td></td>
+      <td>+</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 <!--
 **Panteley3Z/Panteley3Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
