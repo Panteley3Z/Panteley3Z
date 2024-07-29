@@ -3,13 +3,16 @@
 
 <h3>... and I want to become a grown 🥸 tester who can do in automated testing 🥋</h3>
 
-<p> - I’m currently learning ... and learning... and learning... </p>
-
-<ul>and learning...
+<ul>I’m currently learning...
   <li>and learning...</li>
   <li>
     <ul>
       <li>and learning...</li>
+      <li>
+      <ul>
+        <li>and learning...</li>
+      </ul>
+  </li>
     </ul>
   </li>
 </ul>
