@@ -22,7 +22,7 @@
 <table>
   <thead>
     <tr>
-      <th>My skills</th>
+      <th colspan="4">My skills</th>
     </tr>
   </thead>
   <tbody>
