@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 background="lightblue">I am a QA Engineer /<br>Manual tester 🪲🔨🐥</h1>
+<h1 background="lightblue">I am a QA Engineer / Manual tester 🪲🔨🐥</h1>
 
 <h3>... and I want to become a grown 🥸 tester who can do in automated testing 🥋</h3>
 
