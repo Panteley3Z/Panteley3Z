@@ -37,7 +37,7 @@
       <td>⭐️</td>
       <td>⭐️</td>
       <td>✨</td>
-      <td></td>
+      <td>⚪️</td>
     </tr>
     <tr>
       <th><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48"/></th>
@@ -49,8 +49,8 @@
       <td>⭐️</td>
       <td>⭐️</td>
       <td>⭐️</td>
-      <td></td>
-      <td></td>
+      <td>⚪️</td>
+      <td>⚪️</td>
     </tr>
     <tr>
       <th><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48"/></th>
@@ -61,9 +61,9 @@
       <td>⭐️</td>
       <td>⭐️</td>
       <td>⭐️</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>⚪️</td>
+      <td>⚪️</td>
+      <td>⚪️</td>
     </tr>
   </tbody>
 </table>
