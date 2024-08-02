@@ -78,6 +78,19 @@
       <td>⚪️</td>
       <td>⚪️</td>
     </tr>
+    <tr>
+      <th><img src="https://avatars.githubusercontent.com/u/11260967?s=200&v=4" width="48" alt="ChromeDevTools" title="ChromeDevTools"/></th>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>✨</td>
+      <td>⚪️</td>
+    </tr>
   </tbody>
 </table>
 <!--
