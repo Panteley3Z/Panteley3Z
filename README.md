@@ -27,7 +27,7 @@
   </thead>
   <tbody style="width:100%">
     <tr>
-      <th><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" alt="HTML"/></th>
+      <th><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" alt="HTML" title="HTML"/></th>
       <td>⭐️</td>
       <td>⭐️</td>
       <td>⭐️</td>
@@ -40,7 +40,7 @@
       <td>⚪️</td>
     </tr>
     <tr>
-      <th><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" alt="CSS"/></th>
+      <th><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" alt="CSS" title="CSS"/></th>
       <td>⭐️</td>
       <td>⭐️</td>
       <td>⭐️</td>
@@ -53,7 +53,7 @@
       <td>⚪️</td>
     </tr>
     <tr>
-      <th><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" alt="JavaScript"/></th>
+      <th><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" alt="JavaScript" title="JavaScript"/></th>
       <td>⭐️</td>
       <td>⭐️</td>
       <td>⭐️</td>
@@ -66,14 +66,14 @@
       <td>⚪️</td>
     </tr>
     <tr>
-      <th><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="48" alt="Postman"/></th>
+      <th><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="48" alt="Postman" title="Postman"/></th>
       <td>⭐️</td>
       <td>⭐️</td>
       <td>⭐️</td>
       <td>⭐️</td>
       <td>⭐️</td>
       <td>⭐️</td>
-      <td>⚪️</td>
+      <td>✨</td>
       <td>⚪️</td>
       <td>⚪️</td>
       <td>⚪️</td>
