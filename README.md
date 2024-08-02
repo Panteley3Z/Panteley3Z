@@ -27,7 +27,7 @@
   </thead>
   <tbody style="width:100%">
     <tr>
-      <th>HTML<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></th>
+      <th>HTML<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48"/></th>
       <td>⭐️</td>
       <td>⭐️</td>
       <td>⭐️</td>
