@@ -27,9 +27,42 @@
   </thead>
   <tbody style="width:100%">
     <tr>
-      <th>HTML</th>
+      <th>HTML<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></th>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>✨</td>
       <td></td>
-      <td>+</td>
+    </tr>
+    <tr>
+      <th>CSS</th>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>JavaScript</th>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
